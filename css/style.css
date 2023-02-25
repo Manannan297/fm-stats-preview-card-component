@@ -82,8 +82,9 @@ body {
   content: "";
   width: 100%;
   height: 100%;
-  background-color: #6a2197;
-  opacity: 0.55;
+  background-color: #7826ab;
+  opacity: 0.5;
+  filter: contrast(1.5);
   position: absolute;
   left: 0;
   top: 0;
@@ -155,4 +156,7 @@ body {
   color: hsl(0, 0%, 100%);
   margin-top: 0;
   margin-bottom: 0.25rem;
+}
+.card-info__key {
+  font-family: "Lexend Deca", sans-serif;
 }/*# sourceMappingURL=style.css.map */

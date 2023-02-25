@@ -97,8 +97,9 @@ body {
       content: "";
       width: 100%;
       height: 100%;
-      background-color: darken($color-soft-violet, 25%);
-      opacity: 0.55;
+      background-color: darken($color-soft-violet, 20%);
+      opacity: 0.5;
+      filter: contrast(1.5);
       position: absolute;
       left: 0;
       top: 0;
@@ -172,6 +173,10 @@ body {
       color: $color-white;
       margin-top: 0;
       margin-bottom: 0.25rem;
+    }
+
+    &__key {
+      font-family: $font-headers;
     }
   }
 }
