@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [frontendmentor]()
+- Solution URL: [frontendmentor](https://www.frontendmentor.io/solutions/stats-preview-card-component-edenEXInrV)
 - Live Site URL: [github](https://manannan297.github.io/fm-stats-preview-card-component/)
 
 ## My process
